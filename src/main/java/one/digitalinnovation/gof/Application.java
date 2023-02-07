@@ -5,6 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
+ * Padrão de Projeto para API REST utilizando a framework SpringBoot.
+ * Implementação de Projeto com persistencia de dados e integração via API com o ViaCep.
+ * Desenvolvido com apoio da plataforma dio.me.
+ *
  * Projeto Spring Boot gerado via Spring Initializr (https://start.spring.io/)
  * <b>Módulos Selecionados</b>:
  * - Spring Data JPA (Java Persistence Api);
